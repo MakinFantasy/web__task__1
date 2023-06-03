@@ -23,15 +23,15 @@ legs__right_scar_true <br>
 # Emmet
 ## Header
 ![alt text](./img/header.jpg)<br>
-header>div.header>img.header__logo+(nav.header__nav>a*5)+button.header__btn
+header>div.header>img.header__logo+(nav.header__nav>a.header__link*5)+button.header__btn
 
 ## Form
 ![alt text](./img/sign-up.jpg)<br>
-(section.sign-up>img.sign-up__plane_right+(p.sign-up__title_upper)+(h2.sign-up__title)+(form.sign-up__form>(label[for=""]>input[type="text" class="sign-up__form__input"])+(button.sign-up__form__button))+img.sign-up__plane_left)
+(section.sign-up>img.sign-up__plane_right+(p.sign-up__title_upper)+(h2.sign-up__title)+(form.sign-up__form>(label[for=""]>input[type="text" class="sign-up__input"])+(button.sign-up__button))+img.sign-up__plane_left)
 
 ## Card
 ![alt text](./img/card.jpg)<br>
-(div.featured__card>img.featured__card__image+(div.featured__card__container>(h4.featured__card__theme)+(p.featured__card__content)+(p.featured__card__published_date)))
+(div.featured-card>img.featured-card__image+(div.featured-card__container>(h4.featured-card__theme)+(p.featured-card__content)+(p.featured-card__published-date)))
 
 ## My Choice
 ![alt text](./img/elevate.jpg)<br>
